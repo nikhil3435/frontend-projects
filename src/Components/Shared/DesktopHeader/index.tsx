@@ -1,4 +1,4 @@
-import { useState } from 'react';
+
 import './desktopHeader.css';
 
 const DesktopHeader = () => {
